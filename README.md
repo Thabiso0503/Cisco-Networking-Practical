@@ -170,7 +170,7 @@ Receiving four successful replies confirms that the devices can communicate acro
 ## 🖥 Network Topology
 
 <p align="center">
-<img src="screenshots/topology.png" width="850">
+<img src="topology.png" width="850">
 </p>
 
 ---
@@ -178,7 +178,7 @@ Receiving four successful replies confirms that the devices can communicate acro
 ## 📋 PC IP Configuration
 
 <p align="center">
-<img src="screenshots/pc-ipconfig.png" width="750">
+<img src="pc-ipconfig.png" width="750">
 </p>
 
 ---
